@@ -1,4 +1,4 @@
-I'm Daria Holosna
+I'm Daria Holosna !
 
 **Technical Architect | API & Integration Specialist | Distributed Systems Enthusiast**
 
